@@ -1,5 +1,4 @@
 # CRUD system with login system
 
-## Frontend using Javascript as main language
-
-## Backend using Python as main language
+Frontend(app_ui) using Javascript as main language
+Backend(app_api) using Python as main language
