@@ -1,0 +1,59 @@
+{
+  "blogs": [
+    {
+      "title": "Lorem ipsum dolor sit amet consectetur.",
+      "subtitle": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Adipiscing elit quisque faucibus ex sapien vitae pellentesque. Vitae pellentesque sem placerat in id cursus mi. Cursus mi pretium tellus duis convallis tempus leo. Tempus leo eu aenean sed diam urna tempor. Urna tempor pulvinar vivamus fringilla lacus nec metus.",
+      "date": "28/4/2025",
+      "author": {
+        "name": "caklun",
+        "contactEmail": "caklun@gmail.com"
+      },
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Lorem ipsum dolor sit amet consectetur.",
+      "subtitle": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Adipiscing elit quisque faucibus ex sapien vitae pellentesque. Vitae pellentesque sem placerat in id cursus mi. Cursus mi pretium tellus duis convallis tempus leo. Tempus leo eu aenean sed diam urna tempor. Urna tempor pulvinar vivamus fringilla lacus nec metus.",
+      "date": "28/4/2025",
+      "author": {
+        "name": "hantu",
+        "contactEmail": "hantu@gmail.com"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Lorem ipsum dolor sit amet consectetur.",
+      "subtitle": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Adipiscing elit quisque faucibus ex sapien vitae pellentesque. Vitae pellentesque sem placerat in id cursus mi. Cursus mi pretium tellus duis convallis tempus leo. Tempus leo eu aenean sed diam urna tempor. Urna tempor pulvinar vivamus fringilla lacus nec metus.",
+      "date": "28/4/2025",
+      "author": {
+        "name": "tapir",
+        "contactEmail": "tapir@gmail.com"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Lorem ipsum dolor sit amet consectetur.",
+      "subtitle": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Adipiscing elit quisque faucibus ex sapien vitae pellentesque. Vitae pellentesque sem placerat in id cursus mi. Cursus mi pretium tellus duis convallis tempus leo. Tempus leo eu aenean sed diam urna tempor. Urna tempor pulvinar vivamus fringilla lacus nec metus.",
+      "date": "28/4/2025",
+      "author": {
+        "name": "mambang",
+        "contactEmail": "mambang@gmail.com"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Lorem ipsum dolor sit amet consectetur.",
+      "subtitle": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Adipiscing elit quisque faucibus ex sapien vitae pellentesque. Vitae pellentesque sem placerat in id cursus mi. Cursus mi pretium tellus duis convallis tempus leo. Tempus leo eu aenean sed diam urna tempor. Urna tempor pulvinar vivamus fringilla lacus nec metus.",
+      "date": "28/4/2025",
+      "author": {
+        "name": "dey",
+        "contactEmail": "dey@gmail.com"
+      }
+    }
+  ]
+}
