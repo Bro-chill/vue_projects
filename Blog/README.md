@@ -8,6 +8,7 @@ npm i axios json-server primeicons uuid vue-router vue-spinner vue-toastificatio
 ```
 
 Run JSON on local server (json-server)
+<br/>
 package.json
 ```bash
 "scripts":{
